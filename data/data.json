@@ -1,0 +1,2990 @@
+[
+  {
+    "lat": 52.2012444,
+    "long": 0.136282548,
+    "reason": "Roadworks",
+    "action": "Park"
+  },
+  {
+    "lat": 52.2014313,
+    "long": 0.136723191,
+    "reason": "OtherStatic",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.2011414,
+    "long": 0.136027187,
+    "reason": "Cyclist",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.2015724,
+    "long": 0.136941105,
+    "reason": "Signal",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.2014465,
+    "long": 0.135506287,
+    "reason": "Pedestrian",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.2007637,
+    "long": 0.13570261,
+    "reason": "Vehicle",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.196209,
+    "long": 0.130902737,
+    "reason": "Cyclist",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1960602,
+    "long": 0.130707577,
+    "reason": "OtherDynamic",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1957474,
+    "long": 0.130388364,
+    "reason": "Signal",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1959076,
+    "long": 0.130512416,
+    "reason": "Cyclist",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1958046,
+    "long": 0.130545542,
+    "reason": "Pedestrian",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1956482,
+    "long": 0.130755901,
+    "reason": "Pedestrian",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1915359,
+    "long": 0.123815954,
+    "reason": "Cyclist",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1915665,
+    "long": 0.123886988,
+    "reason": "Cyclist",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1910439,
+    "long": 0.123839013,
+    "reason": "OtherStatic",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1914902,
+    "long": 0.123713538,
+    "reason": "Vehicle",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1915512,
+    "long": 0.123938993,
+    "reason": "Vehicle",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.191555,
+    "long": 0.124036208,
+    "reason": "ParkedVehicle",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1880646,
+    "long": 0.14016743,
+    "reason": "Cyclist",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1883278,
+    "long": 0.140075624,
+    "reason": "Vehicle",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1881447,
+    "long": 0.141248107,
+    "reason": "OtherDynamic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1884766,
+    "long": 0.140227437,
+    "reason": "Roadworks",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1885872,
+    "long": 0.141027436,
+    "reason": "Signal",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.188652,
+    "long": 0.140628844,
+    "reason": "Pedestrian",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2011948,
+    "long": 0.134147018,
+    "reason": "OtherDynamic",
+    "action": "Park"
+  },
+  {
+    "lat": 52.2010078,
+    "long": 0.134873673,
+    "reason": "OtherDynamic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.2005463,
+    "long": 0.134739473,
+    "reason": "Vehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.2011871,
+    "long": 0.135043412,
+    "reason": "OtherDynamic",
+    "action": "Park"
+  },
+  {
+    "lat": 52.2008095,
+    "long": 0.134640664,
+    "reason": "Pedestrian",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.2008781,
+    "long": 0.134538203,
+    "reason": "Signal",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1943283,
+    "long": 0.139339894,
+    "reason": "ParkedVehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1942673,
+    "long": 0.139303982,
+    "reason": "ParkedVehicle",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1942329,
+    "long": 0.139284477,
+    "reason": "Signal",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1947174,
+    "long": 0.139586926,
+    "reason": "Vehicle",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1942329,
+    "long": 0.139843121,
+    "reason": "OtherStatic",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1942902,
+    "long": 0.139452532,
+    "reason": "Cyclist",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1934624,
+    "long": 0.141312018,
+    "reason": "Cyclist",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1932716,
+    "long": 0.14088285,
+    "reason": "Cyclist",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1934853,
+    "long": 0.142189234,
+    "reason": "OtherStatic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1931458,
+    "long": 0.140705973,
+    "reason": "Pedestrian",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1932526,
+    "long": 0.141228154,
+    "reason": "Roadworks",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1938171,
+    "long": 0.141313493,
+    "reason": "ParkedVehicle",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.192646,
+    "long": 0.138229758,
+    "reason": "OtherStatic",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1926346,
+    "long": 0.137844622,
+    "reason": "OtherStatic",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1926308,
+    "long": 0.137865111,
+    "reason": "OtherStatic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1926041,
+    "long": 0.137866765,
+    "reason": "Roadworks",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1926308,
+    "long": 0.137941882,
+    "reason": "OtherDynamic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1928329,
+    "long": 0.138253704,
+    "reason": "Pedestrian",
+    "action": "Join"
+  },
+  {
+    "lat": 52.2042198,
+    "long": 0.12391185,
+    "reason": "Cyclist",
+    "action": "Join"
+  },
+  {
+    "lat": 52.2042007,
+    "long": 0.123995148,
+    "reason": "Cyclist",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2041931,
+    "long": 0.12394236,
+    "reason": "Pedestrian",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.2041855,
+    "long": 0.123978972,
+    "reason": "OtherDynamic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.2041969,
+    "long": 0.123932295,
+    "reason": "Cyclist",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.2042046,
+    "long": 0.123927422,
+    "reason": "Cyclist",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1979752,
+    "long": 0.131517246,
+    "reason": "OtherDynamic",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.198307,
+    "long": 0.131296486,
+    "reason": "OtherStatic",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1985092,
+    "long": 0.131517306,
+    "reason": "Signal",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1982346,
+    "long": 0.131123245,
+    "reason": "Roadworks",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1978111,
+    "long": 0.131763279,
+    "reason": "Roadworks",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1979256,
+    "long": 0.132064521,
+    "reason": "OtherStatic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1879044,
+    "long": 0.130373061,
+    "reason": "OtherStatic",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1880531,
+    "long": 0.130668715,
+    "reason": "OtherDynamic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1879807,
+    "long": 0.130853087,
+    "reason": "Cyclist",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1880341,
+    "long": 0.130591571,
+    "reason": "Vehicle",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1880531,
+    "long": 0.130380407,
+    "reason": "Roadworks",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1880646,
+    "long": 0.130527616,
+    "reason": "Cyclist",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.2008095,
+    "long": 0.130815923,
+    "reason": "Cyclist",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.2008896,
+    "long": 0.129884303,
+    "reason": "ParkedVehicle",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.2009773,
+    "long": 0.130152807,
+    "reason": "Cyclist",
+    "action": "Join"
+  },
+  {
+    "lat": 52.2008133,
+    "long": 0.129763409,
+    "reason": "OtherDynamic",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.200779,
+    "long": 0.130238473,
+    "reason": "Roadworks",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.2007904,
+    "long": 0.13022247,
+    "reason": "OtherStatic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1974182,
+    "long": 0.143730626,
+    "reason": "OtherStatic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1972694,
+    "long": 0.143642485,
+    "reason": "ParkedVehicle",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1967964,
+    "long": 0.143488079,
+    "reason": "Vehicle",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1971321,
+    "long": 0.143561453,
+    "reason": "OtherDynamic",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1976013,
+    "long": 0.144238994,
+    "reason": "OtherStatic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1973267,
+    "long": 0.14361617,
+    "reason": "Cyclist",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1880379,
+    "long": 0.130016088,
+    "reason": "OtherDynamic",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1880913,
+    "long": 0.130263746,
+    "reason": "Roadworks",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1880798,
+    "long": 0.131103814,
+    "reason": "Vehicle",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1880798,
+    "long": 0.130047694,
+    "reason": "Vehicle",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1880951,
+    "long": 0.130014017,
+    "reason": "OtherDynamic",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1881332,
+    "long": 0.130169958,
+    "reason": "Pedestrian",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.192276,
+    "long": 0.133785471,
+    "reason": "Cyclist",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1921692,
+    "long": 0.133957818,
+    "reason": "Roadworks",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.192276,
+    "long": 0.133776367,
+    "reason": "Vehicle",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1919708,
+    "long": 0.134200469,
+    "reason": "Pedestrian",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1922607,
+    "long": 0.133395433,
+    "reason": "OtherDynamic",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1924706,
+    "long": 0.13437441,
+    "reason": "ParkedVehicle",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1963387,
+    "long": 0.130909815,
+    "reason": "Cyclist",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1963882,
+    "long": 0.131040439,
+    "reason": "Signal",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1964188,
+    "long": 0.131126225,
+    "reason": "OtherDynamic",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1964531,
+    "long": 0.131126776,
+    "reason": "ParkedVehicle",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1967773,
+    "long": 0.13035427,
+    "reason": "Signal",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.196167,
+    "long": 0.130555809,
+    "reason": "Pedestrian",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.193428,
+    "long": 0.141121581,
+    "reason": "Vehicle",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1936569,
+    "long": 0.141167253,
+    "reason": "OtherStatic",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1939468,
+    "long": 0.141157106,
+    "reason": "OtherDynamic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1938477,
+    "long": 0.14120239,
+    "reason": "Pedestrian",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1940842,
+    "long": 0.140865177,
+    "reason": "Pedestrian",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1940651,
+    "long": 0.141076282,
+    "reason": "Roadworks",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1969986,
+    "long": 0.12643221,
+    "reason": "Signal",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1965408,
+    "long": 0.12784645,
+    "reason": "Cyclist",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1968575,
+    "long": 0.127020761,
+    "reason": "ParkedVehicle",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1968536,
+    "long": 0.126677364,
+    "reason": "OtherDynamic",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1968384,
+    "long": 0.1270805,
+    "reason": "ParkedVehicle",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1969147,
+    "long": 0.127349153,
+    "reason": "Roadworks",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1985397,
+    "long": 0.137605637,
+    "reason": "OtherStatic",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1986313,
+    "long": 0.137664512,
+    "reason": "Roadworks",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1991768,
+    "long": 0.138018429,
+    "reason": "OtherDynamic",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1983643,
+    "long": 0.137489036,
+    "reason": "Roadworks",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1987152,
+    "long": 0.137722611,
+    "reason": "Vehicle",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1985855,
+    "long": 0.137634724,
+    "reason": "Pedestrian",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1927567,
+    "long": 0.123645127,
+    "reason": "OtherDynamic",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1934433,
+    "long": 0.123195037,
+    "reason": "Vehicle",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1924706,
+    "long": 0.123833656,
+    "reason": "OtherStatic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.192421,
+    "long": 0.123864427,
+    "reason": "Signal",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.192276,
+    "long": 0.123937599,
+    "reason": "ParkedVehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1925964,
+    "long": 0.123749375,
+    "reason": "Roadworks",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1982727,
+    "long": 0.141752481,
+    "reason": "Pedestrian",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1979752,
+    "long": 0.141691744,
+    "reason": "Pedestrian",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1982727,
+    "long": 0.141760379,
+    "reason": "Cyclist",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1982384,
+    "long": 0.141759142,
+    "reason": "OtherDynamic",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1982269,
+    "long": 0.142182156,
+    "reason": "ParkedVehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1982727,
+    "long": 0.141883075,
+    "reason": "Cyclist",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1891441,
+    "long": 0.13529706,
+    "reason": "OtherDynamic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1895599,
+    "long": 0.135597646,
+    "reason": "Signal",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1891518,
+    "long": 0.135381922,
+    "reason": "ParkedVehicle",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.189167,
+    "long": 0.135069981,
+    "reason": "ParkedVehicle",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1892395,
+    "long": 0.135554016,
+    "reason": "Vehicle",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1889839,
+    "long": 0.135300919,
+    "reason": "Roadworks",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1955528,
+    "long": 0.145184755,
+    "reason": "Cyclist",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1953125,
+    "long": 0.147116601,
+    "reason": "Signal",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1953087,
+    "long": 0.147165462,
+    "reason": "Cyclist",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1953812,
+    "long": 0.146601096,
+    "reason": "Pedestrian",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1953239,
+    "long": 0.147065938,
+    "reason": "Pedestrian",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1955109,
+    "long": 0.145556524,
+    "reason": "Signal",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1915894,
+    "long": 0.12429072,
+    "reason": "OtherDynamic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1916351,
+    "long": 0.124055371,
+    "reason": "Signal",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1910782,
+    "long": 0.123965748,
+    "reason": "Signal",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1915054,
+    "long": 0.123644665,
+    "reason": "OtherDynamic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1915932,
+    "long": 0.124265663,
+    "reason": "OtherDynamic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1915855,
+    "long": 0.124294706,
+    "reason": "OtherDynamic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1958046,
+    "long": 0.128366053,
+    "reason": "Vehicle",
+    "action": "Join"
+  },
+  {
+    "lat": 52.195858,
+    "long": 0.129714087,
+    "reason": "Pedestrian",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1956291,
+    "long": 0.129985288,
+    "reason": "Pedestrian",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1957779,
+    "long": 0.127570972,
+    "reason": "ParkedVehicle",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1955643,
+    "long": 0.129308954,
+    "reason": "OtherStatic",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.19561,
+    "long": 0.129783943,
+    "reason": "Roadworks",
+    "action": "Join"
+  },
+  {
+    "lat": 52.192955,
+    "long": 0.139287889,
+    "reason": "ParkedVehicle",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1926727,
+    "long": 0.138791189,
+    "reason": "OtherStatic",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1926575,
+    "long": 0.138252124,
+    "reason": "Pedestrian",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1926117,
+    "long": 0.139142215,
+    "reason": "Roadworks",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1927071,
+    "long": 0.138678148,
+    "reason": "OtherStatic",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1928444,
+    "long": 0.138680696,
+    "reason": "Vehicle",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1986008,
+    "long": 0.126043409,
+    "reason": "OtherStatic",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1987305,
+    "long": 0.126438215,
+    "reason": "Pedestrian",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.198616,
+    "long": 0.126103699,
+    "reason": "Vehicle",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1985855,
+    "long": 0.125983045,
+    "reason": "OtherDynamic",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1985741,
+    "long": 0.125984564,
+    "reason": "Roadworks",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1984711,
+    "long": 0.126018122,
+    "reason": "Cyclist",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1943016,
+    "long": 0.140605792,
+    "reason": "OtherDynamic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1941681,
+    "long": 0.140723839,
+    "reason": "Roadworks",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1935577,
+    "long": 0.141243368,
+    "reason": "Roadworks",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1941223,
+    "long": 0.14084515,
+    "reason": "OtherStatic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1945496,
+    "long": 0.140864938,
+    "reason": "ParkedVehicle",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1942024,
+    "long": 0.140751809,
+    "reason": "Pedestrian",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1893883,
+    "long": 0.135882914,
+    "reason": "Pedestrian",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1891975,
+    "long": 0.134763777,
+    "reason": "Vehicle",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1893311,
+    "long": 0.135755375,
+    "reason": "ParkedVehicle",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1891708,
+    "long": 0.135165274,
+    "reason": "OtherDynamic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1893883,
+    "long": 0.135889962,
+    "reason": "Vehicle",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1893539,
+    "long": 0.136109993,
+    "reason": "OtherDynamic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1940536,
+    "long": 0.133934453,
+    "reason": "Roadworks",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1940842,
+    "long": 0.133644164,
+    "reason": "Signal",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1941185,
+    "long": 0.133071497,
+    "reason": "OtherDynamic",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1940994,
+    "long": 0.133353889,
+    "reason": "Roadworks",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1936951,
+    "long": 0.13289246,
+    "reason": "Cyclist",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1933289,
+    "long": 0.133024588,
+    "reason": "OtherDynamic",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1988678,
+    "long": 0.134983078,
+    "reason": "OtherStatic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1992798,
+    "long": 0.135479525,
+    "reason": "Roadworks",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1991806,
+    "long": 0.135830611,
+    "reason": "Roadworks",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1990318,
+    "long": 0.135196254,
+    "reason": "Pedestrian",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1991272,
+    "long": 0.136114821,
+    "reason": "Signal",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1990814,
+    "long": 0.136084422,
+    "reason": "ParkedVehicle",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1952515,
+    "long": 0.127532884,
+    "reason": "Signal",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1950836,
+    "long": 0.127576664,
+    "reason": "ParkedVehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1951294,
+    "long": 0.128176644,
+    "reason": "OtherDynamic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1951447,
+    "long": 0.128291681,
+    "reason": "Signal",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1950493,
+    "long": 0.127949089,
+    "reason": "ParkedVehicle",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1950684,
+    "long": 0.128738642,
+    "reason": "ParkedVehicle",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1951447,
+    "long": 0.140457004,
+    "reason": "Signal",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1951828,
+    "long": 0.14051573,
+    "reason": "Cyclist",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1951332,
+    "long": 0.140156761,
+    "reason": "ParkedVehicle",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1950455,
+    "long": 0.140614778,
+    "reason": "Roadworks",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1953239,
+    "long": 0.139977261,
+    "reason": "ParkedVehicle",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1952896,
+    "long": 0.140251487,
+    "reason": "OtherStatic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1943359,
+    "long": 0.136050984,
+    "reason": "Roadworks",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1943474,
+    "long": 0.136051774,
+    "reason": "Pedestrian",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.194416,
+    "long": 0.135752514,
+    "reason": "Signal",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1943588,
+    "long": 0.135994196,
+    "reason": "OtherStatic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1945686,
+    "long": 0.136731684,
+    "reason": "ParkedVehicle",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1941681,
+    "long": 0.136778027,
+    "reason": "Cyclist",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.2041092,
+    "long": 0.136865228,
+    "reason": "OtherStatic",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.2043228,
+    "long": 0.13718836,
+    "reason": "Pedestrian",
+    "action": "Join"
+  },
+  {
+    "lat": 52.2042694,
+    "long": 0.137179464,
+    "reason": "Cyclist",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.2041931,
+    "long": 0.137167275,
+    "reason": "ParkedVehicle",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.2041321,
+    "long": 0.137194037,
+    "reason": "Vehicle",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.2042503,
+    "long": 0.136838004,
+    "reason": "Vehicle",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1992836,
+    "long": 0.129165486,
+    "reason": "Vehicle",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1993637,
+    "long": 0.129081354,
+    "reason": "ParkedVehicle",
+    "action": "Park"
+  },
+  {
+    "lat": 52.2000885,
+    "long": 0.128316686,
+    "reason": "Cyclist",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1993637,
+    "long": 0.12908709,
+    "reason": "Cyclist",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1989365,
+    "long": 0.129217997,
+    "reason": "Roadworks",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1991463,
+    "long": 0.130145133,
+    "reason": "OtherStatic",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1944733,
+    "long": 0.142818034,
+    "reason": "ParkedVehicle",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.194809,
+    "long": 0.142954975,
+    "reason": "Signal",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.194809,
+    "long": 0.142942697,
+    "reason": "Signal",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1942978,
+    "long": 0.142752483,
+    "reason": "ParkedVehicle",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1947784,
+    "long": 0.143447936,
+    "reason": "Signal",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1946411,
+    "long": 0.142880887,
+    "reason": "Pedestrian",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1957245,
+    "long": 0.138022065,
+    "reason": "OtherDynamic",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1961746,
+    "long": 0.136984989,
+    "reason": "Vehicle",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1958542,
+    "long": 0.137258917,
+    "reason": "Vehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.196434,
+    "long": 0.1363087,
+    "reason": "ParkedVehicle",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1956787,
+    "long": 0.137536854,
+    "reason": "Cyclist",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1958046,
+    "long": 0.137605548,
+    "reason": "Roadworks",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.201088,
+    "long": 0.135000601,
+    "reason": "Cyclist",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.2011337,
+    "long": 0.1350777,
+    "reason": "Roadworks",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.2009201,
+    "long": 0.135171115,
+    "reason": "Roadworks",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.2012939,
+    "long": 0.135212943,
+    "reason": "Cyclist",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.2009583,
+    "long": 0.134925812,
+    "reason": "ParkedVehicle",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.2009773,
+    "long": 0.134880304,
+    "reason": "OtherDynamic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1921234,
+    "long": 0.131267786,
+    "reason": "Cyclist",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1922264,
+    "long": 0.132566527,
+    "reason": "Pedestrian",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1922607,
+    "long": 0.132959038,
+    "reason": "ParkedVehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.192234,
+    "long": 0.132655442,
+    "reason": "Pedestrian",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1923943,
+    "long": 0.13335754,
+    "reason": "ParkedVehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.192234,
+    "long": 0.132835105,
+    "reason": "Pedestrian",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1967735,
+    "long": 0.152020961,
+    "reason": "Roadworks",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1967468,
+    "long": 0.15214403,
+    "reason": "ParkedVehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1967087,
+    "long": 0.152363271,
+    "reason": "OtherDynamic",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1967659,
+    "long": 0.152045041,
+    "reason": "OtherStatic",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1967621,
+    "long": 0.152060732,
+    "reason": "Vehicle",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.196785,
+    "long": 0.151961342,
+    "reason": "OtherStatic",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.2024078,
+    "long": 0.130791381,
+    "reason": "Signal",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2027969,
+    "long": 0.130539119,
+    "reason": "OtherDynamic",
+    "action": "Park"
+  },
+  {
+    "lat": 52.2026749,
+    "long": 0.130895764,
+    "reason": "OtherDynamic",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.202774,
+    "long": 0.130798951,
+    "reason": "ParkedVehicle",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.2028542,
+    "long": 0.130387038,
+    "reason": "Pedestrian",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.2029457,
+    "long": 0.130184278,
+    "reason": "Vehicle",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.2011566,
+    "long": 0.134811252,
+    "reason": "Pedestrian",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2011871,
+    "long": 0.134357765,
+    "reason": "Roadworks",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.2012596,
+    "long": 0.134970307,
+    "reason": "OtherDynamic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.2016792,
+    "long": 0.134593502,
+    "reason": "Pedestrian",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2010689,
+    "long": 0.134636804,
+    "reason": "OtherStatic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.201107,
+    "long": 0.134535909,
+    "reason": "Vehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.2035408,
+    "long": 0.142304048,
+    "reason": "Signal",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.2027054,
+    "long": 0.142146364,
+    "reason": "Vehicle",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.2028046,
+    "long": 0.14216882,
+    "reason": "Signal",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.2027664,
+    "long": 0.142159715,
+    "reason": "Roadworks",
+    "action": "Join"
+  },
+  {
+    "lat": 52.202858,
+    "long": 0.142472073,
+    "reason": "Cyclist",
+    "action": "Join"
+  },
+  {
+    "lat": 52.2027435,
+    "long": 0.14296703,
+    "reason": "Cyclist",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1976662,
+    "long": 0.130948201,
+    "reason": "Signal",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1977501,
+    "long": 0.131111816,
+    "reason": "ParkedVehicle",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1981354,
+    "long": 0.130864739,
+    "reason": "Roadworks",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1978493,
+    "long": 0.131286561,
+    "reason": "Cyclist",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1976624,
+    "long": 0.131480679,
+    "reason": "Cyclist",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1972122,
+    "long": 0.130705088,
+    "reason": "Roadworks",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1951256,
+    "long": 0.124396041,
+    "reason": "OtherStatic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1951523,
+    "long": 0.124704286,
+    "reason": "Vehicle",
+    "action": "Join"
+  },
+  {
+    "lat": 52.195137,
+    "long": 0.124480374,
+    "reason": "Cyclist",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.195118,
+    "long": 0.124355808,
+    "reason": "OtherStatic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1956673,
+    "long": 0.124350734,
+    "reason": "Cyclist",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1954918,
+    "long": 0.12437202,
+    "reason": "Cyclist",
+    "action": "Park"
+  },
+  {
+    "lat": 52.201683,
+    "long": 0.132056236,
+    "reason": "OtherStatic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.2014351,
+    "long": 0.131849483,
+    "reason": "Vehicle",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2015419,
+    "long": 0.131937563,
+    "reason": "Pedestrian",
+    "action": "Park"
+  },
+  {
+    "lat": 52.2014885,
+    "long": 0.131892502,
+    "reason": "Pedestrian",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.2017822,
+    "long": 0.13218227,
+    "reason": "Signal",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.2013817,
+    "long": 0.131748721,
+    "reason": "OtherStatic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1913719,
+    "long": 0.127855033,
+    "reason": "ParkedVehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1917496,
+    "long": 0.128413692,
+    "reason": "OtherStatic",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1918869,
+    "long": 0.128124774,
+    "reason": "ParkedVehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1915741,
+    "long": 0.12796165,
+    "reason": "OtherStatic",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1919479,
+    "long": 0.129333571,
+    "reason": "OtherStatic",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1918526,
+    "long": 0.128395796,
+    "reason": "OtherStatic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.2043228,
+    "long": 0.130415902,
+    "reason": "Cyclist",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2044373,
+    "long": 0.13013117,
+    "reason": "Vehicle",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.2044296,
+    "long": 0.130013958,
+    "reason": "Roadworks",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2043991,
+    "long": 0.130211279,
+    "reason": "OtherStatic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.2043686,
+    "long": 0.130291402,
+    "reason": "Signal",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.2042809,
+    "long": 0.130402267,
+    "reason": "Signal",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1915894,
+    "long": 0.124410629,
+    "reason": "Signal",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1916504,
+    "long": 0.124083042,
+    "reason": "OtherStatic",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.191082,
+    "long": 0.124003306,
+    "reason": "Pedestrian",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1915092,
+    "long": 0.123630896,
+    "reason": "Pedestrian",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1915894,
+    "long": 0.124412864,
+    "reason": "ParkedVehicle",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1915894,
+    "long": 0.124397509,
+    "reason": "Cyclist",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1866837,
+    "long": 0.124564588,
+    "reason": "Signal",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1867905,
+    "long": 0.124613367,
+    "reason": "Vehicle",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1862946,
+    "long": 0.124390304,
+    "reason": "Pedestrian",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1873398,
+    "long": 0.12485154,
+    "reason": "OtherDynamic",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.186161,
+    "long": 0.12433245,
+    "reason": "Cyclist",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1865692,
+    "long": 0.124515802,
+    "reason": "Roadworks",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1986046,
+    "long": 0.128801912,
+    "reason": "Pedestrian",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.198658,
+    "long": 0.128961965,
+    "reason": "Vehicle",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1990776,
+    "long": 0.129156202,
+    "reason": "Signal",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1990051,
+    "long": 0.129990399,
+    "reason": "Signal",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1987114,
+    "long": 0.129121095,
+    "reason": "ParkedVehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1987534,
+    "long": 0.129243061,
+    "reason": "ParkedVehicle",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1930542,
+    "long": 0.134076297,
+    "reason": "Roadworks",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.192894,
+    "long": 0.13367568,
+    "reason": "Pedestrian",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1925888,
+    "long": 0.133495867,
+    "reason": "OtherDynamic",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1927986,
+    "long": 0.133501917,
+    "reason": "Pedestrian",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1926804,
+    "long": 0.133476481,
+    "reason": "Cyclist",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1926155,
+    "long": 0.13352403,
+    "reason": "Pedestrian",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.19244,
+    "long": 0.133651212,
+    "reason": "Vehicle",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.191967,
+    "long": 0.133282453,
+    "reason": "OtherStatic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1924667,
+    "long": 0.133623198,
+    "reason": "ParkedVehicle",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1921844,
+    "long": 0.133352458,
+    "reason": "Cyclist",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1924896,
+    "long": 0.133613423,
+    "reason": "ParkedVehicle",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1923714,
+    "long": 0.133344233,
+    "reason": "OtherStatic",
+    "action": "Park"
+  },
+  {
+    "lat": 52.190052,
+    "long": 0.135633558,
+    "reason": "OtherDynamic",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1904602,
+    "long": 0.135619685,
+    "reason": "ParkedVehicle",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1904602,
+    "long": 0.135665685,
+    "reason": "OtherStatic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1905975,
+    "long": 0.135593176,
+    "reason": "OtherStatic",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1905441,
+    "long": 0.135143489,
+    "reason": "Signal",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1901665,
+    "long": 0.135769367,
+    "reason": "Pedestrian",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.2026939,
+    "long": 0.124254271,
+    "reason": "OtherStatic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2032776,
+    "long": 0.123687997,
+    "reason": "OtherStatic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2032089,
+    "long": 0.123755768,
+    "reason": "Pedestrian",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.2029266,
+    "long": 0.124029182,
+    "reason": "ParkedVehicle",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.2033195,
+    "long": 0.123652034,
+    "reason": "Signal",
+    "action": "Join"
+  },
+  {
+    "lat": 52.2032509,
+    "long": 0.123718657,
+    "reason": "OtherStatic",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1995964,
+    "long": 0.138254628,
+    "reason": "OtherDynamic",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1999969,
+    "long": 0.138463765,
+    "reason": "Signal",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2003059,
+    "long": 0.13858667,
+    "reason": "Cyclist",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1998138,
+    "long": 0.138388708,
+    "reason": "Roadworks",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.2000389,
+    "long": 0.138633579,
+    "reason": "Vehicle",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.2001724,
+    "long": 0.138476849,
+    "reason": "Signal",
+    "action": "Join"
+  },
+  {
+    "lat": 52.189991,
+    "long": 0.131533235,
+    "reason": "ParkedVehicle",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1900101,
+    "long": 0.131618813,
+    "reason": "OtherStatic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.190136,
+    "long": 0.130976886,
+    "reason": "OtherStatic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1900711,
+    "long": 0.131878138,
+    "reason": "Roadworks",
+    "action": "Park"
+  },
+  {
+    "lat": 52.189827,
+    "long": 0.131700903,
+    "reason": "Signal",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1902847,
+    "long": 0.132845908,
+    "reason": "OtherDynamic",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1930122,
+    "long": 0.146377861,
+    "reason": "Cyclist",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1930389,
+    "long": 0.146157175,
+    "reason": "Cyclist",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1930161,
+    "long": 0.146327063,
+    "reason": "ParkedVehicle",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1930771,
+    "long": 0.145895511,
+    "reason": "Cyclist",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1931915,
+    "long": 0.145000234,
+    "reason": "Vehicle",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1930237,
+    "long": 0.146280259,
+    "reason": "Signal",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1977654,
+    "long": 0.123367615,
+    "reason": "Cyclist",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1980286,
+    "long": 0.123891458,
+    "reason": "Cyclist",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1979218,
+    "long": 0.123468108,
+    "reason": "Signal",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1979294,
+    "long": 0.123192638,
+    "reason": "OtherStatic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1975746,
+    "long": 0.124230735,
+    "reason": "Pedestrian",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1977577,
+    "long": 0.124478728,
+    "reason": "Cyclist",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1965332,
+    "long": 0.124398403,
+    "reason": "ParkedVehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1965485,
+    "long": 0.124271974,
+    "reason": "Vehicle",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1967201,
+    "long": 0.124134228,
+    "reason": "Vehicle",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1965599,
+    "long": 0.124145538,
+    "reason": "Pedestrian",
+    "action": "Join"
+  },
+  {
+    "lat": 52.19664,
+    "long": 0.124102741,
+    "reason": "Signal",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1966019,
+    "long": 0.124350861,
+    "reason": "Roadworks",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.2000504,
+    "long": 0.136156633,
+    "reason": "Cyclist",
+    "action": "Join"
+  },
+  {
+    "lat": 52.2002449,
+    "long": 0.136027411,
+    "reason": "Roadworks",
+    "action": "Join"
+  },
+  {
+    "lat": 52.2001114,
+    "long": 0.135671437,
+    "reason": "OtherDynamic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.2003288,
+    "long": 0.135870486,
+    "reason": "Pedestrian",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1999207,
+    "long": 0.13566941,
+    "reason": "Pedestrian",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2000885,
+    "long": 0.135804772,
+    "reason": "OtherDynamic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1994553,
+    "long": 0.13818258,
+    "reason": "OtherDynamic",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1994324,
+    "long": 0.138178214,
+    "reason": "OtherStatic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1996994,
+    "long": 0.138346136,
+    "reason": "Roadworks",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1994133,
+    "long": 0.138166726,
+    "reason": "Pedestrian",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1996956,
+    "long": 0.138624892,
+    "reason": "Cyclist",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1994324,
+    "long": 0.138178706,
+    "reason": "ParkedVehicle",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1878357,
+    "long": 0.128589377,
+    "reason": "OtherStatic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1879807,
+    "long": 0.128873006,
+    "reason": "Roadworks",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1879959,
+    "long": 0.128768668,
+    "reason": "Roadworks",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1879539,
+    "long": 0.128859326,
+    "reason": "OtherDynamic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1884346,
+    "long": 0.128850773,
+    "reason": "Roadworks",
+    "action": "Join"
+  },
+  {
+    "lat": 52.188633,
+    "long": 0.12883608,
+    "reason": "Pedestrian",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1937332,
+    "long": 0.13131775,
+    "reason": "ParkedVehicle",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1937523,
+    "long": 0.131359607,
+    "reason": "Roadworks",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.194519,
+    "long": 0.13140659,
+    "reason": "ParkedVehicle",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1937294,
+    "long": 0.131360337,
+    "reason": "Roadworks",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1937256,
+    "long": 0.131329924,
+    "reason": "Roadworks",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1937447,
+    "long": 0.131335378,
+    "reason": "Roadworks",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1912117,
+    "long": 0.141071334,
+    "reason": "Roadworks",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1912842,
+    "long": 0.140757442,
+    "reason": "OtherDynamic",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1908112,
+    "long": 0.142688304,
+    "reason": "Vehicle",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1908493,
+    "long": 0.143387467,
+    "reason": "Signal",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1906357,
+    "long": 0.142651066,
+    "reason": "Signal",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1900558,
+    "long": 0.142462701,
+    "reason": "Cyclist",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2040024,
+    "long": 0.13489449,
+    "reason": "Vehicle",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.2040176,
+    "long": 0.135135472,
+    "reason": "Roadworks",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2039757,
+    "long": 0.135099649,
+    "reason": "OtherDynamic",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.2039566,
+    "long": 0.135106266,
+    "reason": "OtherStatic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.2039719,
+    "long": 0.135042503,
+    "reason": "ParkedVehicle",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.2039642,
+    "long": 0.135081038,
+    "reason": "OtherStatic",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1895981,
+    "long": 0.127622873,
+    "reason": "Vehicle",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1896706,
+    "long": 0.127779961,
+    "reason": "Signal",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1896095,
+    "long": 0.127689004,
+    "reason": "OtherDynamic",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1901016,
+    "long": 0.127867997,
+    "reason": "ParkedVehicle",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1895714,
+    "long": 0.127629772,
+    "reason": "OtherDynamic",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.189949,
+    "long": 0.127538204,
+    "reason": "Signal",
+    "action": "Join"
+  },
+  {
+    "lat": 52.2000427,
+    "long": 0.127787173,
+    "reason": "OtherStatic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.200016,
+    "long": 0.127810985,
+    "reason": "OtherStatic",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.2001419,
+    "long": 0.128139585,
+    "reason": "Vehicle",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.2000694,
+    "long": 0.127937734,
+    "reason": "OtherStatic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.200058,
+    "long": 0.127764344,
+    "reason": "OtherDynamic",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.2001495,
+    "long": 0.126736432,
+    "reason": "Cyclist",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.2002182,
+    "long": 0.13434802,
+    "reason": "Roadworks",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.199791,
+    "long": 0.134174734,
+    "reason": "Pedestrian",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1998215,
+    "long": 0.134358838,
+    "reason": "OtherStatic",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1999893,
+    "long": 0.134309575,
+    "reason": "ParkedVehicle",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2000504,
+    "long": 0.134699643,
+    "reason": "Cyclist",
+    "action": "Park"
+  },
+  {
+    "lat": 52.200119,
+    "long": 0.134839982,
+    "reason": "OtherDynamic",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1939812,
+    "long": 0.136862487,
+    "reason": "OtherStatic",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1942825,
+    "long": 0.136249691,
+    "reason": "OtherDynamic",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1936531,
+    "long": 0.136576518,
+    "reason": "OtherStatic",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1938324,
+    "long": 0.136363238,
+    "reason": "ParkedVehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1939774,
+    "long": 0.136861712,
+    "reason": "Signal",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1939735,
+    "long": 0.136870772,
+    "reason": "OtherDynamic",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1874695,
+    "long": 0.137898713,
+    "reason": "Pedestrian",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1875725,
+    "long": 0.138612002,
+    "reason": "Roadworks",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1878662,
+    "long": 0.139468104,
+    "reason": "OtherStatic",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.187561,
+    "long": 0.13852565,
+    "reason": "Roadworks",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1875496,
+    "long": 0.138593256,
+    "reason": "OtherDynamic",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1874275,
+    "long": 0.138671339,
+    "reason": "Roadworks",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1888008,
+    "long": 0.135136113,
+    "reason": "Signal",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1889877,
+    "long": 0.134890407,
+    "reason": "Roadworks",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1888809,
+    "long": 0.135217175,
+    "reason": "Vehicle",
+    "action": "Park"
+  },
+  {
+    "lat": 52.1888657,
+    "long": 0.135103777,
+    "reason": "Cyclist",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1891747,
+    "long": 0.135839924,
+    "reason": "Cyclist",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.188755,
+    "long": 0.135174334,
+    "reason": "OtherStatic",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1971092,
+    "long": 0.128364339,
+    "reason": "Vehicle",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1972618,
+    "long": 0.129007578,
+    "reason": "OtherStatic",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1972046,
+    "long": 0.128103644,
+    "reason": "OtherStatic",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1970596,
+    "long": 0.129347444,
+    "reason": "Signal",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1971474,
+    "long": 0.128107071,
+    "reason": "Signal",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1971855,
+    "long": 0.1282105,
+    "reason": "Signal",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1895676,
+    "long": 0.132581294,
+    "reason": "ParkedVehicle",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1896362,
+    "long": 0.132548481,
+    "reason": "Pedestrian",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1895256,
+    "long": 0.132600814,
+    "reason": "OtherStatic",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1893234,
+    "long": 0.132751584,
+    "reason": "Roadworks",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1895103,
+    "long": 0.132525504,
+    "reason": "Signal",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.1899834,
+    "long": 0.133132547,
+    "reason": "Cyclist",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.2001953,
+    "long": 0.134146631,
+    "reason": "Cyclist",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1997528,
+    "long": 0.133796886,
+    "reason": "ParkedVehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1997795,
+    "long": 0.133864239,
+    "reason": "OtherDynamic",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1998901,
+    "long": 0.133905187,
+    "reason": "Cyclist",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.1999741,
+    "long": 0.134542435,
+    "reason": "OtherStatic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.2001343,
+    "long": 0.134793654,
+    "reason": "OtherDynamic",
+    "action": "Park"
+  },
+  {
+    "lat": 52.2039833,
+    "long": 0.144126624,
+    "reason": "Pedestrian",
+    "action": "Park"
+  },
+  {
+    "lat": 52.2040024,
+    "long": 0.144181117,
+    "reason": "Pedestrian",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.2040138,
+    "long": 0.144205153,
+    "reason": "Signal",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.2040062,
+    "long": 0.144193023,
+    "reason": "OtherStatic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.2035141,
+    "long": 0.143383563,
+    "reason": "ParkedVehicle",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.204258,
+    "long": 0.144244075,
+    "reason": "OtherStatic",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1824417,
+    "long": 0.140228108,
+    "reason": "Signal",
+    "action": "Follow"
+  },
+  {
+    "lat": 52.1833267,
+    "long": 0.139669269,
+    "reason": "Pedestrian",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1829224,
+    "long": 0.139924526,
+    "reason": "Cyclist",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.183609,
+    "long": 0.139494076,
+    "reason": "Signal",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.1823006,
+    "long": 0.140318677,
+    "reason": "Pedestrian",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.1825867,
+    "long": 0.140137538,
+    "reason": "Signal",
+    "action": "Park"
+  },
+  {
+    "lat": 52.2037888,
+    "long": 0.143499643,
+    "reason": "Vehicle",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.203846,
+    "long": 0.143455759,
+    "reason": "Cyclist",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.2039719,
+    "long": 0.143925205,
+    "reason": "ParkedVehicle",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2038651,
+    "long": 0.143615425,
+    "reason": "Roadworks",
+    "action": "Join"
+  },
+  {
+    "lat": 52.2049294,
+    "long": 0.142309651,
+    "reason": "ParkedVehicle",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2041245,
+    "long": 0.143942565,
+    "reason": "OtherStatic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.2062607,
+    "long": 0.139431685,
+    "reason": "Cyclist",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.2060623,
+    "long": 0.139562055,
+    "reason": "Vehicle",
+    "action": "EmergencyManeuver"
+  },
+  {
+    "lat": 52.2066765,
+    "long": 0.139157489,
+    "reason": "Cyclist",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.2069168,
+    "long": 0.139002353,
+    "reason": "Roadworks",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.2065277,
+    "long": 0.13925159,
+    "reason": "Signal",
+    "action": "Park"
+  },
+  {
+    "lat": 52.2064629,
+    "long": 0.13929677,
+    "reason": "Vehicle",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.2021942,
+    "long": 0.133448035,
+    "reason": "OtherStatic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.2023544,
+    "long": 0.133516014,
+    "reason": "Signal",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.2024117,
+    "long": 0.134070307,
+    "reason": "OtherDynamic",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.202034,
+    "long": 0.133380026,
+    "reason": "Pedestrian",
+    "action": "Park"
+  },
+  {
+    "lat": 52.2025261,
+    "long": 0.133204713,
+    "reason": "OtherDynamic",
+    "action": "GiveWay"
+  },
+  {
+    "lat": 52.202198,
+    "long": 0.132902682,
+    "reason": "OtherDynamic",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.201683,
+    "long": 0.140634149,
+    "reason": "Cyclist",
+    "action": "Park"
+  },
+  {
+    "lat": 52.2015076,
+    "long": 0.140606835,
+    "reason": "Cyclist",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.2021675,
+    "long": 0.140721112,
+    "reason": "Cyclist",
+    "action": "Stop"
+  },
+  {
+    "lat": 52.2026138,
+    "long": 0.14069058,
+    "reason": "Signal",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.2018509,
+    "long": 0.140734255,
+    "reason": "Pedestrian",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.2018814,
+    "long": 0.14153707,
+    "reason": "Pedestrian",
+    "action": "Undertake"
+  },
+  {
+    "lat": 52.190361,
+    "long": 0.124671601,
+    "reason": "OtherStatic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1901741,
+    "long": 0.12479946,
+    "reason": "OtherStatic",
+    "action": "Join"
+  },
+  {
+    "lat": 52.1901703,
+    "long": 0.124903843,
+    "reason": "Vehicle",
+    "action": "Negotiation"
+  },
+  {
+    "lat": 52.1903,
+    "long": 0.124699995,
+    "reason": "Cyclist",
+    "action": "Overtake"
+  },
+  {
+    "lat": 52.1904449,
+    "long": 0.123984993,
+    "reason": "Vehicle",
+    "action": "Park"
+  },
+  {
+    "lat": 52.190361,
+    "long": 0.124610588,
+    "reason": "Cyclist",
+    "action": "Follow"
+  }
+]
