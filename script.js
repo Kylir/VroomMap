@@ -41,6 +41,7 @@ d3.json('data/data.json').then(function (data) {
     reasonActionMap
         .width(45 * 8 + 80)
         .height(45 * 9 + 40)
+        .margins({ top: 10, left: 80, right: 10, bottom: 20 })
         .dimension(runDim)
         .group(runGroup)
         .keyAccessor(function (d) { return d.key[0] })
@@ -101,7 +102,9 @@ d3.json('data/data.json').then(function (data) {
         // display them
         for (var i = 0; i < filtered.length; i++) {
             var e = filtered[i]
-            L.marker([e.lat, e.long]).addTo(markers);
+            L.marker([e.lat, e.long])
+                .bindPopup("Reason: " + e.reason + "<br>Action: " + e.action)
+                .addTo(markers)
         }
     }
 
